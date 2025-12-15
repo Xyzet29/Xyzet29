@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Xyzet29! 👋
 
-<!--
-**Xyzet29/Xyzet29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 I'm currently a student/developer focused on **Cybersecurity and Data Privacy**.
+- ✍️ I love exploring new technologies and building tools that matter.
+- 📫 How to reach me: [Your Email/LinkedIn Link]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xyzet29&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyzet29&layout=compact&theme=radical)
+
+---
+
+### 🐍 My Contributions
+![Snake animation](https://github.com/Xyzet29/Xyzet29/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🤝 Connect with Me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourprofile)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/yourprofile)
