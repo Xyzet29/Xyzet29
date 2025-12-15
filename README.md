@@ -3,8 +3,7 @@
 ### 👨‍💻 About Me
 - 🎓 I'm currently a student/developer focused on **Cybersecurity and Data Privacy**.
 - ✍️ I love exploring new technologies and building tools that matter.
-- 📫 How to reach me: [Your Email/LinkedIn Link]
-
+  
 ---
 
 ### 📊 GitHub Stats
@@ -14,10 +13,11 @@
 ---
 
 ### 🐍 My Contributions
-![Snake animation](https://github.com/Xyzet29/Xyzet29/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xyzet29/Xyzet29/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ### 🤝 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourprofile)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/yourprofile)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/abduljabbarhawalial)
