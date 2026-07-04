@@ -1,14 +1,17 @@
 # Hi there, I'm Xyzet29! 👋
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently a student/developer focused on **Cybersecurity and Data Privacy**.
-- ✍️ I love exploring new technologies and building tools that matter.
-  
+- 🎓 I'm currently a student/developer focused on **Cybersecurity, SOC, DevOps, and Cloud Engineering**.
+- ✍️ I am highly interested in exploring how to secure systems, monitor traffic, and automate cloud infrastructure.
+- 🎯 My current goal is to build a strong foundation in these fields and bridge the gap between development and security.
+- 🤝 Open to connecting with anyone sharing the same interests or working on tech-related projects.
+
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xyzet29&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyzet29&layout=compact&theme=radical)
+![](https://github-readme-stats.shion.dev/api?username=Xyzet29&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Xyzet29&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Xyzet29&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
