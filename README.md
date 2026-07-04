@@ -1,7 +1,7 @@
 # Hi there, I'm Xyzet29! 👋
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently a student/developer focused on **Cybersecurity, SOC, DevOps, and Cloud Engineering**.
+- 🎓 I'm currently a student/developer focused on **Cybersecurity & Modern Infrastructure**.
 - ✍️ I am highly interested in exploring how to secure systems, monitor traffic, and automate cloud infrastructure.
 - 🎯 My current goal is to build a strong foundation in these fields and bridge the gap between development and security.
 - 🤝 Open to connecting with anyone sharing the same interests or working on tech-related projects.
